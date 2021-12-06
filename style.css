@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+}
+.red {
+  color: red;
+}
+.blue {
+  color: blue;
+}
+.green {
+  color: green;
+}
+.large-text {
+  font-size: xx-large;
+}
+.small-text{
+    font-size: xx-small;
+}
+.centered {
+    text-align: center;
+}
+.bold{
+        font-weight: bold;
+}
+.font{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#multi{
+    font-size: xx-large;
+    color: orange;
+    font-weight: bold;
+}
+
+.styledFont{
+    color: orchid;
+}
